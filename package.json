@@ -3,6 +3,7 @@
   "version": "1.0.2",
   "scripts": {
     "start": "bun run src/server.ts",
+    "test": "bun test",
     "dev": "bun run --watch src/server.ts"
   },
   "dependencies": {
